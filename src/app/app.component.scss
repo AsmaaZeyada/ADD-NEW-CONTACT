@@ -1,0 +1,51 @@
+.modal-body {
+  label {
+    font-size: 15px;
+  }
+
+  color: #3a3a3a;
+}
+
+.modal-header {
+    
+  height: 50px;
+  h1 {
+    font-size: 25px;
+    font-weight: 500;
+  }
+}
+
+.lado-direito {
+  width: 110%;
+  margin: 2px 2px 2px auto;
+  border: 2px solid #7b86c29c;
+  border-radius: 6px;
+  max-height: 148px;
+  overflow-y: scroll;
+
+  .btn-danger {
+   margin-top: 15%;
+  }
+
+
+}
+input {
+  background-color: rgb(255, 255, 255);
+  border: 2px solid #bfc2ff;
+  color: rgb(0, 0, 0);
+  padding: 4px;
+  font-size: 20px;
+  width: 100%;
+  border-radius: 6px;
+}
+
+.home{
+  button{
+    height: 3rem;
+  }
+  input{
+    height: 3rem;
+  }
+
+}
+
